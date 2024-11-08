@@ -137,8 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Mungara Hitesh- hiteshmungara012@gmail.com
-Project Link: https://github.com/yourusername/iot-attendance-system
-
+Project Link: https://github.com/hitesh-mungara/IOT-attandance_management_system
 ## Acknowledgments
 
 * Chart.js for visualization components
