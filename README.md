@@ -1,4 +1,8 @@
 # IoT-based Attendance Management System
+![image](https://github.com/user-attachments/assets/78f793d0-7ca5-49f9-9f1b-469ea906c5dc)
+![image](https://github.com/user-attachments/assets/366c1690-bfb1-4550-a71a-9ed3626a4dbe)
+
+![image](https://github.com/user-attachments/assets/d332abb7-0aab-4eda-85d5-9d90a43a710a)
 
 
 A modern, real-time attendance management system powered by IoT devices and a web-based dashboard. The system uses IoT sensors for entry/exit detection and provides comprehensive analytics through an interactive dashboard.
@@ -130,9 +134,7 @@ INFLUXDB_BUCKET=your-bucket
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
